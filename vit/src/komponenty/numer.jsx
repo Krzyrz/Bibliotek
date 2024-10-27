@@ -1,0 +1,1 @@
+export const Numer = (props) => <a href={props.numer}>{props.numer}</a>
